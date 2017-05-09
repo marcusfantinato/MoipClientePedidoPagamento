@@ -12,25 +12,25 @@ public class MassaRealizandoPedido {
 public MassaRealizandoPedido () {
 //Pedido	
 //"ownId": "seu_identificador_proprio"
-PedidoInfo[0][0] = "Pedido0010";	
+PedidoInfo[0][0] = "Pedido0000001";	
 //"currency": "BRL"
 PedidoInfo[0][1] = "BRL";
 //"subtotals"
 //"shipping": 1000
 PedidoInfo[0][2] = "1234";
 //"items"
-//"product": "Descrição do pedido",
+//"product": "DescriÃ§Äƒo do pedido",
 PedidoInfo[0][3] = "Computador PC";
 //"quantity": 1
 PedidoInfo[0][4] = "5";
 //"detail": "Mais info...",
-PedidoInfo[0][5] = "Preto, 5kg, Dimesões XPTO";
+PedidoInfo[0][5] = "Preto, 5kg, DimesÅ‘es XPTO";
 //"price": 1000	
 PedidoInfo[0][6] = "158786";	
 //ownId
 PedidoInfo[0][7] = "mvsantosxxx";
 //fullname
-PedidoInfo[0][8] = "José Simão";
+PedidoInfo[0][8] = "JosÃ© SimÄƒo";
 //Email   
 PedidoInfo[0][9] = "netojose@hotmail.com";
 //"birthDate": "1988-12-30"
@@ -49,13 +49,13 @@ PedidoInfo[0][14] = "11";
 PedidoInfo[0][15] = "966563988";
 //"shippingAddress"
 //"city"
-PedidoInfo[0][16] = "São Paulo";
+PedidoInfo[0][16] = "SÄƒo Paulo";
 //"complement": "8",
 PedidoInfo[0][17] = "RUBI";
 //"district": "Itaim",
 PedidoInfo[0][18] = "Centro";
 //"street": "Avenida Faria Lima",
-PedidoInfo[0][19] = "Av. 25 de Março";
+PedidoInfo[0][19] = "Av. 25 de MarÃ§o";
 //"streetNumber"
 PedidoInfo[0][20] = "111";
 //"zipCode"
@@ -68,19 +68,19 @@ PedidoInfo[0][23] = "BR";
 //----------------------------------Caso 2
 //Pedido	
 //"ownId": "seu_identificador_proprio"
-PedidoInfo[1][0] = "Pedido0011";	
+PedidoInfo[1][0] = "Pedido0000002";	
 //"currency": "BRL"
 PedidoInfo[1][1] = "BRL";
 //"subtotals"
 //"shipping": 1000
 PedidoInfo[1][2] = "1234";
 //"items"
-//"product": "Descrição do pedido",
+//"product": "DescriÃ§Äƒo do pedido",
 PedidoInfo[1][3] = "Computador Desk";
 //"quantity": 1
 PedidoInfo[1][4] = "3";
 //"detail": "Mais info...",
-PedidoInfo[1][5] = "Preto, 5kg, Dimesões XPTO";
+PedidoInfo[1][5] = "Preto, 5kg, DimesÅ‘es XPTO";
 //"price": 1000	
 PedidoInfo[1][6] = "158786";	
 //ownId
@@ -105,13 +105,13 @@ PedidoInfo[1][14] = "11";
 PedidoInfo[1][15] = "966563988";
 //"shippingAddress"
 //"city"
-PedidoInfo[1][16] = "São Paulo";
+PedidoInfo[1][16] = "SÄƒo Paulo";
 //"complement": "8",
 PedidoInfo[1][17] = "RUBI";
 //"district": "Itaim",
 PedidoInfo[1][18] = "Centro";
 //"street": "Avenida Faria Lima",
-PedidoInfo[1][19] = "Av. 25 de Março";
+PedidoInfo[1][19] = "Av. 25 de MarÃ§o";
 //"streetNumber"
 PedidoInfo[1][20] = "111";
 //"zipCode"
