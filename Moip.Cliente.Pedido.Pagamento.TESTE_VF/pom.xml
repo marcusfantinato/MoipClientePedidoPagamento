@@ -1,0 +1,31 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>Moip.Cliente.Pedido.Pagamento</groupId>
+  <artifactId>Moip.Cliente.Pedido.Pagamento.TESTE</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Moip.Cliente.Pedido.Pagamento</name>
+  <description>25/04/2016</description>
+  <dependencies>
+    	<dependency>
+  		<groupId>junit</groupId>
+  		<artifactId>junit</artifactId>
+  		<version>4.11</version>
+  		<scope>test</scope>
+  	</dependency>
+  	<dependency>
+    <groupId>com.jayway.restassured</groupId>
+    <artifactId>rest-assured</artifactId>
+    <version>2.9.0</version>
+</dependency>
+<dependency>
+    <groupId>com.jayway.restassured</groupId>
+    <artifactId>json-schema-validator</artifactId>
+    <version>2.9.0</version>
+</dependency>
+<dependency>
+    <groupId>br.com.moip</groupId>
+    <artifactId>java-sdk</artifactId>
+    <version>2.1.2</version>
+</dependency>
+  	 </dependencies>
+</project>

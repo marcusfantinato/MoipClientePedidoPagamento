@@ -1,0 +1,13 @@
+Uma automatização das API´s de Cliente, Pedido e Pagamento da empresa MOIP. Projeto em JAVA usando Webdriver + Rest-Assured
+
+No arquivo PlanoDeTeste-MoipAPI .xlsx contém os casos de testes pensado para esse Projeto. A ideia dos testes é apenas mostrar a proficiência no FrameWork Rest-Assured e a habilidade com Automatização de Testes
+
+EXECUÇÃO 
+1 - Antes de iniciar a preparção da massa de testes, você deve realizar o setup no scrtip Acesso. Nele você deve colocar o seu HASH de acesso e o seu HASH do cartão. Para a execução rápida, não há necessidade de alterar.
+2 - Antes de iniciar a execução é preciso informar a massa. É preciso acessar todos os Scripts com o nome MASSA para realizar a manutenção das informações do testes. Toda os scripts de massa já estão devidamentes preenchido para fazer a primeira execução. Para uma configuração rápida basta alterar os IDs dos Scripts Massa Incluindo Cliente e Incluindo Pedido 
+3 - Para iniciar os testes é preciso rodar o Projeto a partir da Classe Scheadule.java. 
+4 - Todas as ações serão logadas no Console.
+
+Qualquer dúvida estou à disposição para esclarecimentos. 
+Att, 
+Marcus Vinicius Fantinato marcusfantinato@gmail.com
