@@ -12,9 +12,9 @@ public class MassaIncluindoCliente {
 public MassaIncluindoCliente () {
 	
 //ownId
-ClienteInfo[0][0] = "Cliente0000010";
+ClienteInfo[0][0] = "Client0000001";
 //fullname
-ClienteInfo[0][1] = "José da Silva Neto";
+ClienteInfo[0][1] = "JosÃ© da Silva Neto";
 //Email   
 ClienteInfo[0][2] = "netojose@hotmail.com";
 //"birthDate": "1988-12-30"
@@ -33,13 +33,13 @@ ClienteInfo[0][7] = "11";
 ClienteInfo[0][8] = "966563988";
 //"shippingAddress"
 //"city"
-ClienteInfo[0][9] = "São Paulo";
+ClienteInfo[0][9] = "SÃ£o Paulo";
 //"complement": "8",
 ClienteInfo[0][10] = "RUBI";
 //"district": "Itaim",
 ClienteInfo[0][11] = "Centro";
 //"street": "Avenida Faria Lima",
-ClienteInfo[0][12] = "Av. 25 de Março";
+ClienteInfo[0][12] = "Av. 25 de MarÃ§o";
 //"streetNumber"
 ClienteInfo[0][13] = "111";
 //"zipCode"
@@ -52,7 +52,7 @@ ClienteInfo[0][16] = "BR";
 //----------------------------------Caso 2
 
 //ownId
-ClienteInfo[1][0] = "Cliente0000011";
+ClienteInfo[1][0] = "Client0000002";
 //fullname
 ClienteInfo[1][1] = "Bruno Faria";
 //Email   
